@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MindlessStowaway
-- 👀 I’m interested in all sorts of software and mechanical engineering
-- 🌱 I’m currently learning how to become a Web Developer
+- 👀 I’m interested in all sorts of programming software
+- 🌱 I’m currently learning orogramming and studying computer science
 - 💞️ I’m looking to collaborate on all sorts of projects
 - 📫 How to reach me ... not yet!
 
