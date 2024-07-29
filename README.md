@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MindlessStowaway
+- 👋 Hi, I’m @NuhaHamid
 - 👀 I’m interested in all sorts of programming software
 - 🌱 I’m currently learning orogramming and studying computer science
 - 💞️ I’m looking to collaborate on all sorts of projects
